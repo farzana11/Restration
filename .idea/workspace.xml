@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="193b5d64-e221-4924-979e-b8ebdc3e2d49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Mobile and desktop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/teblet.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Restration.iws" />
@@ -32,27 +32,17 @@
         <entry file="file://$PROJECT_DIR$/dist/ultimate.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1110">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="72" />
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fluid.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fluid.html">
+      <file leaf-file-name="teblet.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/teblet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="345">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mobile and desktop.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dist/Mobile and desktop.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38303342" vertical-offset="1" max-vertical-offset="480">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.6940874" vertical-offset="0" max-vertical-offset="390">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -74,6 +64,7 @@
         <option value="$PROJECT_DIR$/dist/stak.html" />
         <option value="$PROJECT_DIR$/fluid.html" />
         <option value="$PROJECT_DIR$/dist/Mobile and desktop.html" />
+        <option value="$PROJECT_DIR$/dist/teblet.html" />
       </list>
     </option>
   </component>
@@ -254,18 +245,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/ultimate.html">
+    <entry file="file://$PROJECT_DIR$/dist/Mobile and desktop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1110">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="72" />
+        <state vertical-scroll-proportion="-6.2083335" vertical-offset="1" max-vertical-offset="480">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/Mobile and desktop.html">
+    <entry file="file://$PROJECT_DIR$/dist/ultimate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38303342" vertical-offset="1" max-vertical-offset="480">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1110">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/teblet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6940874" vertical-offset="0" max-vertical-offset="390">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
           <folding />
         </state>
       </provider>
